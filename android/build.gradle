@@ -106,7 +106,7 @@ android {
         namespace 'com.flutterandies.photo_manager'
     }
 
-    compileSdkVersion 34
+    compileSdkVersion 30
 
     def javaVersion = getJavaVersion()
     println("The photo_manager java version is ${javaVersion}")
