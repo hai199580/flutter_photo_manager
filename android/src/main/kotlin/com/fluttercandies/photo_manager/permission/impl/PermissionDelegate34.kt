@@ -20,7 +20,7 @@ class PermissionDelegate34 : PermissionDelegate() {
         private const val mediaAudio = Manifest.permission.READ_MEDIA_AUDIO
 
         private const val mediaVisualUserSelected =
-            Manifest.permission.READ_MEDIA_VISUAL_USER_SELECTED
+            Manifest.permission.READ_MEDIA_VIDEO
 
         private const val mediaLocationPermission = Manifest.permission.ACCESS_MEDIA_LOCATION
     }
